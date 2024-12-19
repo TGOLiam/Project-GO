@@ -1,0 +1,26 @@
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore dependency directories (for Python, etc.)
+venv/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore OS-specific files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore IDE configurations (Visual Studio Code, JetBrains)
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+chroma/
+env/
+
+basics.pdf
+c++.pdf
